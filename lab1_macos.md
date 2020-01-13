@@ -7,6 +7,8 @@ In a managed workshop, you will be given a USB memory stick which has the instal
 
 If you are not operating in a managed lab then download the following installers.
 
+Expect to need about 2GB of free storage on your machine to download and install the packages below.
+
 * [Microchip MPLAB X 5.30](https://www.microchip.com/mplabx-ide-osx-installer)
 * [Microchip XC32 Compiler v2.30](https://www.microchip.com/mplabxc32osx)
 * [Microchip Trust Platform Design Suite 1.1.0](https://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en1000380)
